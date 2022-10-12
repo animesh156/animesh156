@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @animesh156
 - 👀 I’m interested in Full Stack Web development.
-- 🌱 I’m currently learning DSA & NODEjs.
+- 🌱 I’m currently learning DSA & Backend web-development.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me www.linkedin.com/in/animesh95
 
