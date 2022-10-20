@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning DSA & Backend web-development.
 - 📫 How to reach me www.linkedin.com/in/animesh95
 
-![icons8-html-5-64](https://user-images.githubusercontent.com/114474707/196910808-d58340b3-ecfa-47f9-a0b6-7992c92a9458.png)
+![icons8-html-5-64](https://user-images.githubusercontent.com/114474707/196910808-d58340b3-ecfa-47f9-a0b6-7992c92a9458.png) ![icons8-git-64](https://user-images.githubusercontent.com/114474707/196911182-cad45d0a-ac1a-4714-bdfb-c285fcd27703.png)
+
 
 
 <!---
