@@ -7,7 +7,7 @@
 
 
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Readme GIF" width="500" height="600">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.mp4" alt="Readme GIF" width="500" height="600">
 
 
 
