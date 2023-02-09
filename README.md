@@ -6,9 +6,7 @@
 
 
 
-
-<iframe src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>
-
+<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
 
 
 
