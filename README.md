@@ -6,7 +6,7 @@
  - 📫 Connect with me - <a href="https://animesh156.github.io/Linktree/" traget="_blank">link</a>
  
 
-<p align="center" margin-bottom: 5px>
+<p align="center" margin-bottom: 8px>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,git,github" />
