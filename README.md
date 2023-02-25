@@ -1,9 +1,9 @@
 
   
- -👋 Hi, I’m Animesh.
- -👀 I’m interested in MERN Stack Web development & Competitive Programming.
- -🌱 I’m currently learning DSA & back-end web-development.
- -📫 Connect with me - <a href="https://animesh156.github.io/Linktree/" traget="_blank">link</a>
+ - 👋 Hi, I’m Animesh.
+ - 👀 I’m interested in MERN Stack Web development & Competitive Programming.
+ - 🌱 I’m currently learning DSA & back-end web-development.
+ - 📫 Connect with me - <a href="https://animesh156.github.io/Linktree/" traget="_blank">link</a>
  
  <div align="center">
 
