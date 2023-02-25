@@ -6,6 +6,8 @@
 
 <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif">
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+
 
 
 
