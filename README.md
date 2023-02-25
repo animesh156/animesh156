@@ -8,9 +8,9 @@
  <div align="center">
 
 
-  <a href="https://skillicons.dev" style=" margin-bottom: 5px;">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,git,github" />
-  </a>
+  </a>  <br>
   
 
 
