@@ -3,7 +3,7 @@
  - 👋 Hi, I’m Animesh.
  - 👀 I’m interested in MERN Stack Web development & Open Source.
  - 🌱 I’m currently learning DSA & back-end web-development.
- - 📫 Connect with me - <a href="https://animesh156.github.io/Linktree/" traget="_blank">Link</a>
+ - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" traget="_blank">Link</a>
  
 
 
