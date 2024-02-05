@@ -15,12 +15,11 @@
   
   </p>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
-  
-  
-  
+
  <div align="center">
+
+   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh156&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
