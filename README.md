@@ -1,12 +1,12 @@
- <div align="center">
+
   
- - *👋 Hi, I’m Animesh.
+ - 👋 Hi, I’m Animesh.
  - 👀 I’m interested in MERN Stack Web development & Open Source.
  - 🌱 I’m currently doing DSA problems & CP.
  - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" traget="_blank">Link</a>
  
 
-
+ <div align="center">
   <h3 >Skills:</h3>
 <p >
   <a href="https://skillicons.dev">
