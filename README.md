@@ -4,6 +4,7 @@
  - 👀 I’m interested in MERN Stack Web development & Open Source.
  - 🌱 I’m currently grinding on LC & CF.
  - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" traget="_blank">Link</a>
+ - 🌱 Portfolio -   <a href="https://animesh156.github.io/portfolio/" traget="_blank">portfolio</a>
  
 
  <div align="center">
