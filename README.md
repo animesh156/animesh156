@@ -1,8 +1,8 @@
 
   
  - 👋 Hi, I’m Animesh.
- - 👀 I’m interested in MERN Stack Web development & Open Source.
- - 🌱 I’m currently grinding on LC & CF.
+ - 👀 Interested in MERN Stack Web development & Open Source.
+ - 🌱 Currently grinding on LC & CF.
  - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" traget="_blank">Link</a>
  - 🌱 Portfolio -   <a href="https://portfolio-gray-pi-82.vercel.app/" traget="_blank">portfolio</a>
  
