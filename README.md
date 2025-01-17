@@ -30,7 +30,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh156&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=animesh156&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=animesh156&theme=dark)](https://git.io/streak-stats)
   
 
 
