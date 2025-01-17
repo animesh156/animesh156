@@ -13,6 +13,7 @@
  <div align="center">
   <h3 >Skills:</h3>
 <p >
+  Frontend:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
   </a> 
