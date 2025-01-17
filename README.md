@@ -9,12 +9,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
  
-
-<div align="center"> <h3>Skills</h3>
-- **Frontend:** <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,js" /> </a>
-- **Backend:** <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,c" /> </a>
-  - **Tools:** <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" /> </a>
-
+<div align="center">
+  <h3 >Skills:</h3>
+<p >
+ 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
+  </a> 
+  
+  </p>
 
 
 
