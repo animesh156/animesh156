@@ -10,15 +10,13 @@
 <br><br>
  
 
- <div align="center">
-  <h3 >Skills:</h3>
-<p >
-  Frontend:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
-  </a> 
-  
-  </p>
+<div align="center"> <h3>Skills</h3>
+Frontend
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,js" /> </a>
+Backend
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,c" /> </a>
+Tools
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" /> </a>
 
 
   [![An image of @animesh95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/animesh95)](https://holopin.io/@animesh95)
