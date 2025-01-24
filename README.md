@@ -12,14 +12,14 @@
 
   <div align="center">
 
-  <h1 >Skills:</h3>
-<h3 >
+  <h3 >Skills:</h3>
+<h1 >
   Frontend
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
   </a> 
   
-  </h3>
+  </h1>
 
   <h3>
   Frontend
