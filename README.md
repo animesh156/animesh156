@@ -12,8 +12,9 @@
 
   <div align="center">
 
-  
-<h1 >
+  <div flex="col">
+
+  <h1 >
   Frontend
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,vite,css,html,bootstrap,tailwind" />
@@ -37,6 +38,9 @@
   </a> 
   
   </h1>
+   
+  </div>
+
 
 
 
