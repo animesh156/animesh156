@@ -16,27 +16,27 @@
 <h1 >
   Frontend
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap,tailwind" />
   </a> 
   
   </h1>
 
-  <h3>
-  Frontend
+<h1 >
+  Backend
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" />
   </a> 
   
-  </h3>
+  </h1>
 
 
-<h3>
- Frontend
+<h1 >
+ Developer Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,css,html,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman" />
   </a> 
   
-  </h3>
+  </h1>
 
 
 
