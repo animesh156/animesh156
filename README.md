@@ -12,7 +12,7 @@
 
   <div align="center">
 
-  <h3 >Skills:</h3>
+  <h2 >Skills:</h3>
 <h1 >
   Frontend
   <a href="https://skillicons.dev">
