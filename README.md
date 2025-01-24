@@ -1,9 +1,9 @@
 <div align="center">
-  <h4>👋 Hi, I’m Animesh.</h2>
-  <h2>👀 Interested in MERN Stack Development & Open Source.</h2>
-  <h2>🌱 Currently grinding on LC & CF.</h2>
-  <h2>📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a></h2>
-  <h2>🌱 Portfolio - <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a></h2>
+  <h3>👋 Hi, I’m Animesh.</h3>
+  <h3>👀 Interested in MERN Stack Development & Open Source.</h3>
+  <h3>🌱 Currently grinding on LC & CF.</h3>
+  <h3>📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a></h3>
+  <h3>🌱 Portfolio - <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a></h3>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
