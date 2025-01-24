@@ -16,7 +16,7 @@
 <h1 >
   Frontend
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,css,html,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,js,vite,css,html,bootstrap,tailwind" />
   </a> 
   
   </h1>
@@ -33,7 +33,7 @@
 <h1 >
  Developer Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   </a> 
   
   </h1>
