@@ -4,39 +4,31 @@
  - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a>
  - 🌱 Portfolio -   <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <h1>Frontend</h1>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,js,vite,css,html,bootstrap,tailwind" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h1>Backend</h1>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h1>Developer Tools</h1>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
+  <h1>Frontend</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,vite,css,html,bootstrap,tailwind" />
+  </a>
 </div>
+
+<div align="center">
+  <h1>Backend</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" />
+  </a>
+</div>
+
+<div align="center">
+  <h1>Developer Tools</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
 
