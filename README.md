@@ -8,10 +8,11 @@
 <br><br>
 
 <div align="center">
-  <h1>Frontend</h1>
+  <h1>Frontend
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,vite,css,html,bootstrap,tailwind" />
   </a>
+   </h1>
 </div>
 
 <div align="center">
