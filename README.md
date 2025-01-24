@@ -16,17 +16,19 @@
 </div>
 
 <div align="center">
-  <h1>Backend</h1>
+  <h1>Backend
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql" />
   </a>
+   </h1>
 </div>
 
 <div align="center">
-  <h1>Developer Tools</h1>
+  <h1>Developer Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   </a>
+   </h1>
 </div>
 
 <br>
