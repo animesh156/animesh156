@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋 Hi, I’m Animesh.</h2>
+  <h4>👋 Hi, I’m Animesh.</h2>
   <h2>👀 Interested in MERN Stack Development & Open Source.</h2>
   <h2>🌱 Currently grinding on LC & CF.</h2>
   <h2>📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a></h2>
