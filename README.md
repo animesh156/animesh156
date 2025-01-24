@@ -1,10 +1,13 @@
- - 👋 Hi, I’m Animesh.
- - 👀 Interested in MERN Stack Development & Open Source.
- - 🌱 Currently grinding on LC & CF.
- - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a>
- - 🌱 Portfolio -   <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a>
+<div align="center">
+  - 👋 Hi, I’m Animesh. <br>
+  - 👀 Interested in MERN Stack Development & Open Source. <br>
+  - 🌱 Currently grinding on LC & CF. <br>
+  - 📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a> <br>
+  - 🌱 Portfolio -   <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a> <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
 <br><br>
 
 <div align="center">
