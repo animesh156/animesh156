@@ -12,11 +12,13 @@
 
 <br><br>
 
-
- 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,vite,css,html,bootstrap,tailwind" />
+<div align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,js,vite,css,html,mongodb,bootstrap,tailwind,git,github,redux" />
   </a>
+</div>
+ 
+ 
  
 
 
