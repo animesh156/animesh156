@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hi, I’m Animesh.</h3>
   <h3>👀 Interested in MERN Stack Development & Open Source.</h3>
-  <h3>🌱 Currently grinding on LC & CF.</h3>
+  <h3>🌱 Currently grinding on LC </h3>
   <h3>📫 Connect with me - <a href="https://linktr.ee/animesh_56" target="_blank">Link</a></h3>
   <h3>🌱 Portfolio - <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a></h3>
   <br>
