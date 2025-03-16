@@ -13,15 +13,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 
 
-
-
-
-
-<div align="center">
+ ### 🛠️ Skills
+ - Languages:
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,js,vite,css,html,mongodb,bootstrap,tailwind,git,github,redux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" />
   </a>
-</div>
+
  
  
  
