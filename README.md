@@ -16,9 +16,9 @@
 ### 🛠️ Skills
 
 - **Languages:**
-- 
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" height="40" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" height="35" />
   </a>
 
 - **Frontend Development:**  
