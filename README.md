@@ -1,15 +1,20 @@
+  # Hi there, I’m Animesh 👋 
 
-  ## Hi there, I’m Animesh 👋 
+  ### About Me
+
+  #### A motivated and results-driven final-year Computer Science Engineering student at RNTU Bhopal with a strong foundation in software development and a passion for problem-solving. Proficient in MERN stack development with a commitment to delivering clean, efficient, and maintainable code.
+
 - 👀 Interested in Full  Stack Development & Open Source.
 - 🌱 Currently working on MERN & Next.js projects.
 - 📫 How to reach me: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
+
 
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 
 
 
 
-<br><br>
+
 
 <div align="center">
    <a href="https://skillicons.dev">
