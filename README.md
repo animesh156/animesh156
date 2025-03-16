@@ -20,6 +20,32 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java" height="30" />
   </a>
 
+  - **Frontend Development:**
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,javascript,css" height="30" />
+  </a>
+
+  - **Frameworks & Libraries:**
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,redux,tailwindcss,bootstrap,daisyui" height="30" />
+  </a>
+
+  - **Backend Development:**
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,mongoose," height="30" />
+  </a>
+
+  - **Other Tools:**
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i="git,vscode,postman height="30" />
+  </a>
+
+
+
 
  
  
