@@ -17,7 +17,7 @@
 - **Languages:**
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java" height="20" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" height="30" />
   </a>
 
 
