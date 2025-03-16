@@ -3,7 +3,8 @@
   <p>👀 Interested in MERN Stack Development & Open Source.</p>
   <p>🌱 Currently grinding on LC </p>
 
-  <p>🌱 How to rech me - <a href="animeshrathore255@gmail.com" target="_blank">animeshrathore255@gmail.com</a></p>
+ <p>📫 How to reach me - <a href="mailto:animeshrathore255@gmail.com">animeshrathore255@gmail.com</a></p>
+
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
