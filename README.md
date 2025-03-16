@@ -15,50 +15,31 @@
 
 ### 🛠️ Skills
 
-- **Languages:**
-
+- **Languages:**  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java" height="30" />
   </a>
 
-<br/>
-
-- **Frontend Development:**
-
+- **Frontend Development:**  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,javascript,css" height="30" />
   </a>
 
-<br/>
-
-- **Frameworks & Libraries:**
-
+- **Frameworks & Libraries:**  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,redux,tailwindcss,bootstrap,daisyui" height="30" />
   </a>
 
-<br/>
-
-- **Backend Development:**
-
+- **Backend Development:**  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,mongoose" height="30" />
   </a>
 
-<br/>
-
-- **Other Tools:**
-
+- **Other Tools:**  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,postman" height="30" />
   </a>
 
-
-
-
- 
- 
- 
 
 
 <br>
