@@ -30,7 +30,7 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh156&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=animesh156)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
