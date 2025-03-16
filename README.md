@@ -1,13 +1,11 @@
-<div align="center">
-  <h3>👋 Hi, I’m Animesh.</h3>
-- 👀 Interested in MERN Stack Development & Open Source.
+
+  ## Hi there, I’m Animesh 👋 
+- 👀 Interested in Full  Stack Development & Open Source.
 - 🌱 Currently working on MERN & Next.js projects.
 - 📫 How to reach me: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
 
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</div>
 
 
 
