@@ -1,9 +1,9 @@
 <div align="center">
   <h3>👋 Hi, I’m Animesh.</h3>
-  <h3>👀 Interested in MERN Stack Development & Open Source.</h3>
-  <h3>🌱 Currently grinding on LC </h3>
+  <p>👀 Interested in MERN Stack Development & Open Source.</p>
+  <p>🌱 Currently grinding on LC </p>
 
-  <h3>🌱 Portfolio - <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a></h3>
+  <p>🌱 Portfolio - <a href="https://portfolio-gray-pi-82.vercel.app/" target="_blank">Portfolio</a></p>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
