@@ -21,27 +21,29 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java" height="35" />
   </a>
 
-- **Frontend Development:**  
+- **Frontend Development:**
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,javascript,css" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,javascript,css" height="35" />
   </a>
 
-- **Frameworks & Libraries:**  
+- **Frameworks & Libraries:**
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,redux,tailwindcss,bootstrap,daisyui" height="40" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,redux,tailwindcss,bootstrap,daisyui" height="35" />
   </a>
 
-- **Backend Development:**  
+- **Backend Development:**
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,mongoose" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,mongoose" height="35" />
   </a>
 
-- **Other Tools:**  
+- **Other Tools:**
+   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman" height="40" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman" height="35" />
   </a>
-
-
 
 <br>
 
