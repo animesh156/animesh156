@@ -22,22 +22,22 @@
 
 - **Frontend Development:**  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,javascript,css" height="30" />
+    <img src="https://skillicons.dev/icons?i=html,javascript,css" height="40" />
   </a>
 
 - **Frameworks & Libraries:**  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,redux,tailwindcss,bootstrap,daisyui" height="30" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,redux,tailwindcss,bootstrap,daisyui" height="40" />
   </a>
 
 - **Backend Development:**  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,mongoose" height="30" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,mongoose" height="40" />
   </a>
 
 - **Other Tools:**  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman" height="30" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman" height="40" />
   </a>
 
 
