@@ -1,8 +1,9 @@
 <div align="center">
   <h3>👋 Hi, I’m Animesh.</h3>
- - <p>👀 Interested in MERN Stack Development & Open Source.</p>
- - <p>🌱 Currently working on MERN & NextJs projects </p>
- - <p>📫 How to reach me - <a href="mailto:animeshrathore255@gmail.com">animeshrathore255@gmail.com</a></p>
+- 👀 Interested in MERN Stack Development & Open Source.
+- 🌱 Currently working on MERN & Next.js projects.
+- 📫 How to reach me: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
+
 
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
