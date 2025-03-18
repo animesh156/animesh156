@@ -47,7 +47,7 @@
 
 <br>
 
-https://github-profile-trophy.vercel.app/?username=animesh156&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=animesh156&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
