@@ -47,6 +47,8 @@
 
 <br>
 
+https://github-profile-trophy.vercel.app/?username=animesh156&theme=dracula
+
 <div align="center">
 
   [![An image of @animesh95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/animesh95)](https://holopin.io/@animesh95)
