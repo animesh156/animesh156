@@ -2,9 +2,6 @@
 
   ### About Me
 
-   A motivated and results-driven final-year Computer Science Engineering student at RNTU Bhopal with a strong foundation in software development and a passion for problem-solving. 
-  Proficient in MERN stack development with a commitment to delivering clean, efficient, and maintainable code.
-
 - 👀 Interested in Full  Stack Development & Open Source.
 - 🌱 Currently working on MERN & Next.js projects.
 - 📫 How to reach me: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
