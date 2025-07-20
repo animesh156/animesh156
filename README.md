@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Animesh Rathore
+# 👾 Hello, GitHub Explorer!  
 
 ### 🚀 About Me
 
