@@ -2,8 +2,8 @@
 
 ### 🚀 About Me
 
-- 💻 Passionate Full Stack Developer focused on building impactful products.
-- 🌱 Currently working with **MERN Stack** and **Next.js**.
+- 💻 Passionate Full Stack Development focused on building impactful products.
+- 🌱 Currently working with **MERN Stack** and **GenAI**.
 - 📬 Reach me at: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
 - 🔍 Actively exploring Open Source and real-world scalable web applications.
 
