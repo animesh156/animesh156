@@ -68,10 +68,3 @@
 
 ---
 
-### 🏅 Badges
-
-<p align="center">
-  <a href="https://holopin.io/@animesh95">
-    <img src="https://holopin.me/animesh95" alt="Holopin Badges" />
-  </a>
-</p>  
