@@ -2,10 +2,11 @@
 
 ### 🚀 About Me
 
-- 💻 Passionate Full Stack Development focused on building impactful products.
-- 🌱 Currently working with **MERN Stack** and **GenAI**.
+- 👋 I'm **Animesh Rathore**, a **2025 CSE graduate** passionate about building meaningful software solutions.
+- 💻 Enthusiastic **Full Stack Developer** focused on delivering impactful and scalable products.
+- 🌱 Currently working with **MERN Stack** and exploring the potential of **Generative AI**.
+- 🔍 Actively contributing to **Open Source** and working on real-world problem-solving through code.
 - 📬 Reach me at: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
-- 🔍 Actively exploring Open Source and real-world scalable web applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=animesh156&color=ff69b4)
 
