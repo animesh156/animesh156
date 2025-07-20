@@ -1,4 +1,7 @@
-# 🧙‍♂️ Welcome to my GitHub Lab! ⚗️ 
+# 🧙‍♂️ Welcome to my GitHub Lab! ⚗️  
+> 🛰️ Exploring code galaxies. Brewing bugs into features. Welcome aboard, explorer! 🌌
+
+---
 
 ### 🚀 About Me
 
@@ -14,22 +17,22 @@
 
 ### 🛠️ Tech Stack
 
-#### 🌐 Languages
+#### 🌐 Languages  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,java" height="35" />
 </a>
 
-#### 💻 Frontend
+#### 💻 Frontend  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,tailwindcss,bootstrap,daisyui" height="35" />
 </a>
 
-#### 🧠 Backend
+#### 🧠 Backend  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" height="35" />
 </a>
 
-#### 🔧 Tools
+#### 🔧 Tools  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,postman" height="35" />
 </a>
@@ -39,8 +42,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula" height="165" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&show_icons=true&theme=radical" 
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&show_icons=true&theme=default" 
+      height="165" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula" 
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=default" 
+      height="165" />
+  </picture>
 </p>
 
 ---
@@ -48,7 +66,13 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true" />
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true" 
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://streak-stats.demolab.com?user=animesh156&theme=default&hide_border=true&short_numbers=true" />
+  </picture>
 </p>
 
 ---
@@ -59,4 +83,4 @@
   <a href="https://holopin.io/@animesh95">
     <img src="https://holopin.me/animesh95" alt="Holopin Badges" />
   </a>
-</p>
+</p>  
