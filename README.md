@@ -45,17 +45,25 @@
 
 <br>
 
+<div>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 
 
 <div align="center">
 
   [![An image of @animesh95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/animesh95)](https://holopin.io/@animesh95)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
  
 </div>
