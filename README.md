@@ -48,12 +48,11 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&show_icons=true&theme=radical" />
- 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true" />
 </p>
+
 
 
 <div align="center">
