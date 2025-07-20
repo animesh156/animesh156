@@ -19,12 +19,12 @@
 
 #### 🌐 Languages  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css" height="35" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" height="35" />
 </a>
 
 #### 🧩 Frameworks & Tools  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,git,vscode,postman" height="35" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,redux,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,git,vscode,postman" height="35" />
 </a>
 
 
