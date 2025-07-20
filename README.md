@@ -25,7 +25,7 @@
 
 #### 🧠 Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,postgresql" height="35" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" height="35" />
 </a>
 
 #### 🔧 Tools
