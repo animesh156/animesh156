@@ -46,14 +46,19 @@
 <br>
 
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animesh156&rank_icon=github&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh156&layout=compact&theme=dracula" />
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </p>
 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=animesh156&theme=bear&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 
   [![An image of @animesh95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/animesh95)](https://holopin.io/@animesh95)
   
