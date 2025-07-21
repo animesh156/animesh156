@@ -24,7 +24,7 @@
 
 #### 🧩 Frameworks & Tools  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,redux,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,git,vscode,postman" height="35" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,redux,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,git,vscode,postman&titles=true" height="35" />
 </a>
 
 
