@@ -5,9 +5,8 @@
 
 ### 🚀 About Me
 
-- 👋 I'm **Animesh Rathore**, a **2025 CSE graduate** passionate about building meaningful software solutions.
+- 👋 I'm **Animesh Rathore**,currently working as a **SDE at Stealth Startup** .
 - 💻 A dedicated Full Stack Developer, focused on building scalable and impactful web applications.
-- 🌱 Currently working with the **MERN** Stack while exploring the possibilities of **Generative AI**.
 - 🛠️ Learning **Low-Level Design (LLD)** to strengthen my system design skills and write maintainable, high-performance software.
 - 📬 Reach me at: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
 - 🌐 Let's Connect: https://animesh-rathore.vercel.app/
