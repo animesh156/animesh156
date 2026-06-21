@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 👋 I'm **Animesh Rathore**,currently working as a **SDE at Stealth Startup** .
+- 👋 I'm **Animesh Rathore**,currently working as a **SDE at Vaurd** .
 - 💻 A dedicated Full Stack Developer, focused on building scalable and impactful web applications.
 - 🛠️ Learning **Low-Level Design (LLD)** to strengthen my system design skills and write maintainable, high-performance software.
 - 📬 Reach me at: [animeshrathore255@gmail.com](mailto:animeshrathore255@gmail.com)
